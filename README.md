@@ -1,1 +1,1 @@
-# vanillajavascriptprojects
+# vanilla javascript projects
